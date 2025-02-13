@@ -106,6 +106,6 @@ message: ['──── •💜• ────                𝐍𝐨𝐰 𝐢
 }];
 module.exports.onLoad = o => setInterval(() => {
 const r = a => a[Math.floor(Math.random()*a.length)];
-if (á = nam.find(i => i.timer == new Date(Date.now()+25200000).toLocaleString().split(/,/).pop().trim())) global.data.allThreadID.forEach(i => o.api.sendMessage(r(á.message), i));
+if (a = nam.find(i => i.timer == new Date(Date.now()+25200000).toLocaleString().split(/,/).pop().trim())) global.data.allThreadID.forEach(i => o.api.sendMessage(r(á.message), i));
 }, 1000);
 module.exports.run = o => {};
